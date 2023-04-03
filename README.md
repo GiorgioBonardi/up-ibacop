@@ -7,7 +7,7 @@ Clone this repository and put the directory "up_ibacop" in your python library.
 
 IBaCoP2 and therefore this integrator requires:
 + To be run on Linux OS (Version tested: Ubuntu 22.04.1 LTS)
-+ Python 3.x and also Python 2.7
++ Python >=3.7 and also Python 2.7
 
 ## Usage
 ```python
